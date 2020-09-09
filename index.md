@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Testimonial Videos Without the Headache
 
-You can use the [editor on GitHub](https://github.com/bskinny129/TestimonialVidWebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You understand that video testimonials are very powerful at establishing your brand and bringing in new customers. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
 
 ### Markdown
 
